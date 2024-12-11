@@ -3,6 +3,8 @@ Contiene las exposiciones vistas en clases.
 
 Pantalla 7 segmentos
 Practica:
+![Uploading Pantalla 7 elementos.jpeg…]()
+
 Componentes:
 
 Joystick
