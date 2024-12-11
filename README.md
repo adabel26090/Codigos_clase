@@ -26,15 +26,21 @@ Practica:
 ![Menbrana2](https://github.com/user-attachments/assets/e1e7c6c8-736d-4ccf-9834-c546e9b82684)
 
 Componentes:
+Un teclado de membrana es un tipo de teclado que utiliza una capa de material flexible, generalmente de silicona, con circuitos impresos debajo, para registrar las pulsaciones de las teclas. Este tipo de teclado es muy común en dispositivos electrónicos más económicos, como computadoras portátiles, teclados de oficina, y algunos teclados de ordenador de gama baja.
 
 Servo motor
 Practica:
 ![Servo motor](https://github.com/user-attachments/assets/35599539-6f8d-4d94-b70a-fcd802fb6803)
 
 Componentes:
+1. Componentes
+Motor : Generalmente un motor de CC, pero también puede ser de CA en algunos casos.
+Circuito de control : permite un control preciso del movimiento del motor.
+Mecanismo de retroalimentación : un potenciómetro o codificador que mide la posición del eje del motor y proporciona retroalimentación al controlador, lo que permite un control de circuito cerrado.
 
 Buzzer
 Practica:
 ![Buzzer](https://github.com/user-attachments/assets/d353db9a-d81d-4a1f-95b3-8db4a5e7f103)
 
 Componentes:    
+Un buzzer es un componente electrónico utilizado para generar sonido, comúnmente en forma de un tono o pitido. Los buzzers se emplean en una variedad de dispositivos como señales de alerta, notificaciones o para indicar algún evento específico.
