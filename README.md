@@ -5,6 +5,7 @@ Pantalla 7 segmentos
 Practica:
 ![Uploading Pantalla 7 elementos.jpeg…]()
 
+
 Componentes:
 
 Joystick
