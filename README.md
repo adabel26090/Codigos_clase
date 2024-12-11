@@ -3,7 +3,8 @@ Contiene las exposiciones vistas en clases.
 
 Pantalla 7 segmentos
 Practica:
-![Uploading Pantalla 7 elementos.jpeg…]()
+![Pantalla 7 elementos - copia](https://github.com/user-attachments/assets/097ed5cf-f41f-46b6-aea0-df8dc6adbc16)
+
 
 
 Componentes:
