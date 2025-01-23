@@ -1,6 +1,9 @@
 # Exposición en clases
 Contiene las exposiciones vistas en clases.
 
+
+holaassd 
+
 Pantalla 7 segmentos
 Practica:
 ![Pantalla 7 elementos - copia](https://github.com/user-attachments/assets/097ed5cf-f41f-46b6-aea0-df8dc6adbc16)
